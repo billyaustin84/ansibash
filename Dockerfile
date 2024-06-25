@@ -7,4 +7,5 @@ RUN pip install -U \
         ansible \
         ansible-lint \
         ansible-lint-junit \
-        jmespath
+        jmespath \
+        pip
